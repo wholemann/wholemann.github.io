@@ -1,16 +1,16 @@
 # Site settings
-title: 기계인간 John Grib
-url: "https://johngrib.github.io"
+title: 홀맨의 지식저장소
+url: "https://wholemann.github.io"
 baseurl: ""
 description: >
-    기계인간 블로그
+    Wholeman's Wiki
 
 # My information
-email: johngrib82@gmail.com
-author: 기계인간 John Grib
-profile: 유물론자
-twitter_username: John_Grib
-github_username: johngrib
+email: wholeman.dev@gmail.com
+author: 홀맨
+profile: 
+twitter_username: 
+github_username: wholemann
 comment-support: utterances
 
 # Build settings
@@ -38,10 +38,10 @@ collections:
 
 # Comment Service
 disqus:
-  id: johngrib
-  shortname: johngrib
+  id: wholeman
+  shortname: wholeman
 utterances:
-  repo: johngrib/johngrib.github.io
+  repo: wholemann/wholemann.github.io
   issue-term: pathname
   label: Comment
   branch: master
@@ -52,9 +52,9 @@ google_analytics:
 google_adsense:
   client: ca-pub-3675948545737694
 
-blame: "https://github.com/johngrib/johngrib.github.io/blame/master/_wiki"
-edit: "https://github.com/johngrib/johngrib.github.io/edit/master/_wiki"
-issue: "https://github.com/johngrib/johngrib.github.io/issues/new"
+blame: "https://github.com/wholemann/wholemann.github.io/blame/master/_wiki"
+edit: "https://github.com/wholemann/wholemann.github.io/edit/master/_wiki"
+issue: "https://github.com/wholemann/wholemann.github.io/issues/new"
 
 timezone: "Asia/Seoul"
 

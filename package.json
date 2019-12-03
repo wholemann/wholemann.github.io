@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johngrib/johngrib.github.io.git"
+    "url": "git+https://github.com/wholemann/wholemann.github.io.git"
   },
   "author": "John Grib",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/johngrib/johngrib.github.io/issues"
+    "url": "https://github.com/wholemann/wholemann.github.io/issues"
   },
-  "homepage": "https://github.com/johngrib/johngrib.github.io#readme"
+  "homepage": "https://github.com/wholemann/wholemann.github.io#readme"
 }
